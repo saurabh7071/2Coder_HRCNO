@@ -3,9 +3,9 @@ let workTittle = document.getElementById('work');
 let breakTittle = document.getElementById('break');
 let longBreakTittle = document.getElementById('longbreak');
 
-let workTime = 1;
-let breakTime = 1;
-let longBreakTime = 1;
+let workTime = 25;
+let breakTime = 5;
+let longBreakTime = 15;
 
 let seconds = 0;
 let totalSeconds = 0;
