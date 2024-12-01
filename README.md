@@ -35,9 +35,15 @@ Developed to improve task management by 40%, this tool is perfect for individual
 
 ---
 
-## 🚀 Installation and Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
-   cd pomodoro-timer
+## 🚀 Contributors 
+* Saurabh Vaidya | Team Lead & Devloper
+* Rajnandan Ray
+* Shreya Shirbhate
+
+---
+
+## 📧 Contact
+- **Email :** svaidya.official@gmail.com
+- **LinkedIn :** www.linkedin.com/in/saurabh-vaidya-b665a633a
+   
 
